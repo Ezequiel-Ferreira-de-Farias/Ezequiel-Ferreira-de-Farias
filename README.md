@@ -14,6 +14,6 @@
  
  <br>
   
-  ![Snake animation](https://github.com/Ezequiel-Ferreira-de-Farias/Ezequiel-Ferreira-de-Farias/blob/output/github-contribution-grid-snake.svg)
+ 
 
 </div>
